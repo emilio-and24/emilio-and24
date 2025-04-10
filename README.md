@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi and welcome 😄👋
+
+👨‍💻 About me: 
+* 📉 Passionate about data analysis and data-driven decicions for business.
+* 🧠 Currently sharpening my skills in Python, key Python libraries, SQL, and visualization tools. 
+* 🎯 Presently learning A/B testing and hypothesis testing
 
 <!--
 **emilio-and24/emilio-and24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
