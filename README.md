@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/emilio-and24/emilio-and24/blob/main/Banner%20para%20Linkedin%20Licenciado%20en%20marketing%20Corporativo%20Verde%20y%20blanco%20(1).png" width="800"/>
+
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/inin/emilio-ramirez-2b8732224/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:emilio.ramra@gmail.com)
+
+
 ### Hi and welcome 😄👋
 
 👨‍💻 About me: 
@@ -6,23 +15,10 @@
 * 🎯 Presently learning A/B testing and hypothesis testing
 
 ### 🔨 Skills
-<div id="header" align="center">
+<div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
 
 </div>
 
-<!--
-**emilio-and24/emilio-and24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
