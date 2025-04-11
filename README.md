@@ -21,4 +21,7 @@
 
 </div>
 
-
+### 🔥 Stats 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=emilio-and24&theme=dark" alt="GitHub Streak" />
+</p>
