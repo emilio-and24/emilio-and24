@@ -6,11 +6,11 @@
 * 🎯 Presently learning A/B testing and hypothesis testing
 
 ### 🔨 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src=[![My Skills](https://skillicons.dev/icons?i=github,py,vscode)](https://skillicons.dev) />
-  </a>
-</p>
+<div id="header" align="center">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
+
+</div>
 
 <!--
 **emilio-and24/emilio-and24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
