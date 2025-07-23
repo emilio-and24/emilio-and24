@@ -19,12 +19,15 @@
 1 Food App 📈
   * Description: Research on user behavior in a food products app through funnel analysis and A/B testing, with the aim of identifying bottlenecks in conversion.
   * Tools: Python, Pandas, A/B Testing
+
 2 Zuber 🚕
   * Description: Analysis of taxi ride data in Chicago to identify user behavior patterns and assess the impact of external factors, such as weather, on ride duration and frequency.
   * Tools: Pytho, SQL, Tableau
+
 3 Ice Game Store
   * Description: Performed a predictive analysis of video game sales for the store Ice Games, with the goal of identifying success patterns and predicting which games would perform well.
   * Tools: Ptyhon, SQL
+    
 ### 🔨 Skills
 <div id="header" align="left">
   
