@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/emilio-and24/emilio-and24/blob/main/Banner%20para%20Linkedin%20Licenciado%20en%20marketing%20Corporativo%20Verde%20y%20blanco%20(1).png" width="800"/>
+  <img decoding="async" src="https://github.com/emilio-and24/emilio-and24/blob/main/1752949129056.jpg" width="800"/>
 
 </div>
 
