@@ -31,7 +31,7 @@
 ### 🔨 Skills
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,vscode,git,sklearn,mysql)](https://skillicons.dev)
 
 </div>
 
